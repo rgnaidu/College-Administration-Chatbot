@@ -1,4 +1,5 @@
-
+import time
+import random
 import os
 from pathlib import Path
 
@@ -54,10 +55,28 @@ Student question:
 {question}
 """
 
-    response = client.models.generate_content(
-        model="gemini-3.8-flash",
-        contents=prompt
-    )
+    response = None
+
+    for attempt in range(3):
+        try:
+            response = client.models.generate_content(
+                model="gemini-3.8-flash",
+                contents=prompt
+            )
+            break
+
+        except Exception as error:
+            error_message = str(error)
+
+            if "503" in error_message or "UNAVAILABLE" in error_message:
+                if attempt < 2:
+                    wait_seconds = 2 ** (attempt + 1) + random.uniform(0, 1)
+                    print(f"Gemini is busy. Retrying in {wait_seconds:.1f} seconds...")
+                    time.sleep(wait_seconds)
+                else:
+                    raise
+            else:
+                raise
 
     answer = (response.text or "").strip()
 

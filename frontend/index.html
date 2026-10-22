@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GVPCEW College Assistant</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app">
+        <header class="header">
+            <div class="logo">G</div>
+            <div>
+                <h1>GVPCEW Assistant</h1>
+                <p><span class="status-dot"></span> College Information Chatbot</p>
+            </div>
+        </header>
+
+        <main id="chat" class="chat">
+            <div class="welcome">
+                <div class="welcome-icon">🎓</div>
+                <h2>Hello! Welcome to GVPCEW</h2>
+                <p>Ask me about admissions, examinations, academics, placements and college facilities.</p>
+
+                <div class="suggestions">
+                    <button class="suggestion">Where is GVPCEW located?</button>
+                    <button class="suggestion">How are Category-A seats filled?</button>
+                    <button class="suggestion">Where can I find exam notifications?</button>
+                </div>
+            </div>
+        </main>
+
+        <div id="error" class="error" hidden></div>
+
+        <form id="chat-form" class="composer">
+            <input
+                id="question"
+                type="text"
+                placeholder="Ask your college question..."
+                autocomplete="off"
+                maxlength="1000"
+                required
+            >
+            <button id="send" type="submit">Send ➤</button>
+        </form>
+
+        <footer>GVPCEW College Administration Assistant</footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

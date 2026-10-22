@@ -1,0 +1,633 @@
+GVPCEW COLLEGE ADMINISTRATION CHATBOT — KNOWLEDGE BASE STARTER
+Prepared: 2026-10-19 | Sources: official GVPCEW website pages listed per FAQ
+Review note: Check time-sensitive details against the current official notice before deployment. This dataset intentionally avoids guessing missing/current fees, deadlines, eligibility, and hostel costs.
+
+Question: What is the full name of GVPCEW?
+Answer: Gayatri Vidya Parishad College of Engineering for Women (GVPCEW).
+Source: https://www.gvpcew.ac.in/
+Category: General
+FAQ-ID: GVPCEW-001
+
+Question: What does GVPCEW stand for?
+Answer: Gayatri Vidya Parishad College of Engineering for Women.
+Source: https://www.gvpcew.ac.in/
+Category: General
+FAQ-ID: GVPCEW-002
+
+Question: Where is GVPCEW located?
+Answer: Kommadi, Madhurawada, Visakhapatnam–530048, Andhra Pradesh, India.
+Source: https://www.gvpcew.ac.in/
+Category: General
+FAQ-ID: GVPCEW-003
+
+Question: What is the college PIN code?
+Answer: The website lists 530048.
+Source: https://www.gvpcew.ac.in/
+Category: General
+FAQ-ID: GVPCEW-004
+
+Question: What are the college telephone numbers?
+Answer: The website lists +91-891-2739144, 2719124, 2719125 and 2719127. Confirm the relevant office before relying on a number.
+Source: https://www.gvpcew.ac.in/
+Category: General
+FAQ-ID: GVPCEW-005
+
+Question: What is the college email address?
+Answer: The website lists gvpcew@gmail.com and info@gvpcew.ac.in.
+Source: https://www.gvpcew.ac.in/
+Category: General
+FAQ-ID: GVPCEW-006
+
+Question: How do I contact the college?
+Answer: Use the official phone numbers or email addresses listed on the GVPCEW website.
+Source: https://www.gvpcew.ac.in/
+Category: General
+FAQ-ID: GVPCEW-007
+
+Question: Where can I find college announcements?
+Answer: Check the official homepage's latest news and events section.
+Source: https://www.gvpcew.ac.in/
+Category: General
+FAQ-ID: GVPCEW-008
+
+Question: Where can I find the college brochure?
+Answer: Use the official brochure page; check the year of the brochure before relying on it.
+Source: https://www.gvpcew.ac.in/brochure.php
+Category: General
+FAQ-ID: GVPCEW-009
+
+Question: Does GVPCEW have autonomous status?
+Answer: The homepage states UGC conferred autonomous status for ten years from 2024–25 to 2033–34. Check current formal notices for details.
+Source: https://www.gvpcew.ac.in/
+Category: General
+FAQ-ID: GVPCEW-010
+
+Question: Where is the code of conduct?
+Answer: Use the Code of Conduct link under Quick Links on the official website.
+Source: https://www.gvpcew.ac.in/
+Category: General
+FAQ-ID: GVPCEW-011
+
+Question: Where is mandatory disclosure information?
+Answer: Use the Mandatory Disclosure link on the official homepage.
+Source: https://www.gvpcew.ac.in/
+Category: General
+FAQ-ID: GVPCEW-012
+
+Question: Where can I find accreditation details?
+Answer: The homepage links to NBA, NAAC and AICTE approval information.
+Source: https://www.gvpcew.ac.in/
+Category: General
+FAQ-ID: GVPCEW-013
+
+Question: Where can I find governing body details?
+Answer: Use the Governing Body link under Quick Links.
+Source: https://www.gvpcew.ac.in/
+Category: General
+FAQ-ID: GVPCEW-014
+
+Question: Where can I find the student handbook?
+Answer: Use the Students Hand Book link on the official homepage.
+Source: https://www.gvpcew.ac.in/
+Category: General
+FAQ-ID: GVPCEW-015
+
+Question: How are Category-A seats filled?
+Answer: The admissions page says Category-A admissions are through APSCHE APEAPCET counselling.
+Source: https://www.gvpcew.ac.in/admissionsPage.php
+Category: Admissions
+FAQ-ID: GVPCEW-016
+
+Question: How are Category-B seats filled?
+Answer: The admissions page says Category-B management-quota admissions follow APSCHE guidelines.
+Source: https://www.gvpcew.ac.in/admissionsPage.php
+Category: Admissions
+FAQ-ID: GVPCEW-017
+
+Question: Where can I find admission information?
+Answer: Visit the official Admissions page.
+Source: https://www.gvpcew.ac.in/admissionsPage.php
+Category: Admissions
+FAQ-ID: GVPCEW-018
+
+Question: Where can I find the latest admission notification?
+Answer: Check the current admission notification linked from the homepage and verify its academic year.
+Source: https://www.gvpcew.ac.in/
+Category: Admissions
+FAQ-ID: GVPCEW-019
+
+Question: Where can I ask about 2026–27 admissions?
+Answer: The homepage lists Admissions Enquiries (2026–27) links. Open the current official link to confirm contact details.
+Source: https://www.gvpcew.ac.in/
+Category: Admissions
+FAQ-ID: GVPCEW-020
+
+Question: What is the Category-A process?
+Answer: The official page describes APSCHE APEAPCET counselling. Check APSCHE's current schedule and rules.
+Source: https://www.gvpcew.ac.in/admissionsPage.php
+Category: Admissions
+FAQ-ID: GVPCEW-021
+
+Question: What is the management quota process?
+Answer: The official page says Category-B admissions follow APSCHE guidelines; consult the current Category-B notification.
+Source: https://www.gvpcew.ac.in/admissionsPage.php
+Category: Admissions
+FAQ-ID: GVPCEW-022
+
+Question: Where is the Category-B notification?
+Answer: The official admissions page links a Category-B notification. Confirm that it matches the current year.
+Source: https://www.gvpcew.ac.in/admissionsPage.php
+Category: Admissions
+FAQ-ID: GVPCEW-023
+
+Question: What documents are required for admission?
+Answer: The sources reviewed do not provide a complete current checklist. Check the latest admission notification or contact admissions.
+Source: https://www.gvpcew.ac.in/admissionsPage.php
+Category: Admissions
+FAQ-ID: GVPCEW-024
+
+Question: What is the last date to apply?
+Answer: Deadlines vary by year and counselling round. Check the latest official notification and APSCHE schedule.
+Source: https://www.gvpcew.ac.in/
+Category: Admissions
+FAQ-ID: GVPCEW-025
+
+Question: What is the B.Tech eligibility?
+Answer: Verify eligibility in the current official admission notification and APSCHE rules; this FAQ does not infer criteria.
+Source: https://www.gvpcew.ac.in/admissionsPage.php
+Category: Admissions
+FAQ-ID: GVPCEW-026
+
+Question: Can I get admission through counselling?
+Answer: The official admissions page says Category-A seats are filled through APSCHE APEAPCET counselling.
+Source: https://www.gvpcew.ac.in/admissionsPage.php
+Category: Admissions
+FAQ-ID: GVPCEW-027
+
+Question: Where do I ask about admission fees?
+Answer: Use the current Admissions page and official enquiry links; confirm the applicable academic year.
+Source: https://www.gvpcew.ac.in/admissionsPage.php
+Category: Admissions
+FAQ-ID: GVPCEW-028
+
+Question: Are the listed fee amounts current?
+Answer: The admissions page notes the shown fees are for 2024–25 and may change. Verify the current fee notice.
+Source: https://www.gvpcew.ac.in/admissionsPage.php
+Category: Admissions
+FAQ-ID: GVPCEW-029
+
+Question: Where can I find postgraduate admission information?
+Answer: The admissions page lists postgraduate programmes; confirm current availability and eligibility in the latest notice.
+Source: https://www.gvpcew.ac.in/admissionsPage.php
+Category: Admissions
+FAQ-ID: GVPCEW-030
+
+Question: Where can I find scholarship information for applicants?
+Answer: Check current official admission notices and homepage fee/scholarship links; verify the scheme year.
+Source: https://www.gvpcew.ac.in/
+Category: Admissions
+FAQ-ID: GVPCEW-031
+
+Question: What if admission information is unclear?
+Answer: Read the latest official notification and contact the college using the published contact details.
+Source: https://www.gvpcew.ac.in/
+Category: Admissions
+FAQ-ID: GVPCEW-032
+
+Question: Which departments are listed?
+Answer: The homepage lists EEE, ECE, CSE, CSE (AI & ML), IT and BSH. Check Courses Offered for current programmes.
+Source: https://www.gvpcew.ac.in/
+Category: Courses
+FAQ-ID: GVPCEW-033
+
+Question: Does GVPCEW have Information Technology?
+Answer: Yes, IT is listed as a department on the official homepage.
+Source: https://www.gvpcew.ac.in/
+Category: Courses
+FAQ-ID: GVPCEW-034
+
+Question: Does the college have CSE?
+Answer: Yes, Computer Science and Engineering is listed on the official website.
+Source: https://www.gvpcew.ac.in/
+Category: Courses
+FAQ-ID: GVPCEW-035
+
+Question: Does the college list AI and ML?
+Answer: Yes, CSE (AI & ML) is listed. Check Courses Offered for current programme details.
+Source: https://www.gvpcew.ac.in/
+Category: Courses
+FAQ-ID: GVPCEW-036
+
+Question: Does GVPCEW have ECE?
+Answer: Yes, Electronics and Communication Engineering is listed.
+Source: https://www.gvpcew.ac.in/
+Category: Courses
+FAQ-ID: GVPCEW-037
+
+Question: Does GVPCEW have EEE?
+Answer: Yes, Electrical and Electronics Engineering is listed.
+Source: https://www.gvpcew.ac.in/
+Category: Courses
+FAQ-ID: GVPCEW-038
+
+Question: Where can I find courses offered?
+Answer: Use the Courses Offered link on the official homepage.
+Source: https://www.gvpcew.ac.in/
+Category: Courses
+FAQ-ID: GVPCEW-039
+
+Question: Where can I find department details?
+Answer: Choose the relevant department link from the official homepage.
+Source: https://www.gvpcew.ac.in/
+Category: Courses
+FAQ-ID: GVPCEW-040
+
+Question: Where is the IT syllabus?
+Answer: Open Regulations, Academic Calendar & Syllabus and select the IT file for your admitted batch.
+Source: https://www.gvpcew.ac.in/Regulations_Syllabus.php
+Category: Courses
+FAQ-ID: GVPCEW-041
+
+Question: Where is the CSE syllabus?
+Answer: Choose the CSE syllabus matching your admitted batch on the official regulations page.
+Source: https://www.gvpcew.ac.in/Regulations_Syllabus.php
+Category: Courses
+FAQ-ID: GVPCEW-042
+
+Question: Where is the CSE AI & ML syllabus?
+Answer: The regulations page lists CSE-AIML syllabus resources. Select the matching batch.
+Source: https://www.gvpcew.ac.in/Regulations_Syllabus.php
+Category: Courses
+FAQ-ID: GVPCEW-043
+
+Question: Does the college list postgraduate programmes?
+Answer: The admissions page lists CSE (Data Science) and ECE (VLSID & ES); confirm current intake in the latest notice.
+Source: https://www.gvpcew.ac.in/admissionsPage.php
+Category: Courses
+FAQ-ID: GVPCEW-044
+
+Question: Where can I find B.Tech regulations?
+Answer: Use the Regulations, Academic Calendar & Syllabus page; it lists R24 and other regulation resources.
+Source: https://www.gvpcew.ac.in/Regulations_Syllabus.php
+Category: Academic
+FAQ-ID: GVPCEW-045
+
+Question: What does R24 mean?
+Answer: R24 is the label for a set of academic regulations on the official page. Read the relevant document for rules.
+Source: https://www.gvpcew.ac.in/Regulations_Syllabus.php
+Category: Academic
+FAQ-ID: GVPCEW-046
+
+Question: Where can I find the academic calendar?
+Answer: The official regulations page lists calendars by programme, year and admitted batch.
+Source: https://www.gvpcew.ac.in/Regulations_Syllabus.php
+Category: Academic
+FAQ-ID: GVPCEW-047
+
+Question: Where is the 2025–26 first-year B.Tech calendar?
+Answer: Look for the first-year B.Tech 2025–2026 calendar on the regulations page and check your batch.
+Source: https://www.gvpcew.ac.in/Regulations_Syllabus.php
+Category: Academic
+FAQ-ID: GVPCEW-048
+
+Question: Where is the 2026–27 II B.Tech calendar?
+Answer: The homepage lists a 2026–27 II B.Tech calendar for the 2025–29 batch.
+Source: https://www.gvpcew.ac.in/
+Category: Academic
+FAQ-ID: GVPCEW-049
+
+Question: Where is the 2026–27 III B.Tech calendar?
+Answer: The homepage lists a 2026–27 III B.Tech calendar for the 2024–28 batch.
+Source: https://www.gvpcew.ac.in/
+Category: Academic
+FAQ-ID: GVPCEW-050
+
+Question: How do I download my syllabus?
+Answer: Open the regulations page, select your department and admitted batch, and download the matching syllabus.
+Source: https://www.gvpcew.ac.in/Regulations_Syllabus.php
+Category: Academic
+FAQ-ID: GVPCEW-051
+
+Question: Do all syllabus files apply to every batch?
+Answer: No. Choose the file matching your programme, regulation and admitted batch.
+Source: https://www.gvpcew.ac.in/Regulations_Syllabus.php
+Category: Academic
+FAQ-ID: GVPCEW-052
+
+Question: Where is the student handbook?
+Answer: Use the Students Hand Book link on the official homepage.
+Source: https://www.gvpcew.ac.in/
+Category: Academic
+FAQ-ID: GVPCEW-053
+
+Question: Where are conduct rules published?
+Answer: Use the official Code of Conduct link and read the full document.
+Source: https://www.gvpcew.ac.in/
+Category: Academic
+FAQ-ID: GVPCEW-054
+
+Question: How is the academic calendar prepared?
+Answer: The college's published evaluation information says it is based on the affiliating university calendar and includes exam schedules.
+Source: https://www.gvpcew.ac.in/NAAC/C2-5.php
+Category: Academic
+FAQ-ID: GVPCEW-055
+
+Question: How are assessment schedules communicated?
+Answer: The college says schedules are communicated through the website, notice boards and email.
+Source: https://www.gvpcew.ac.in/NAAC/C2-5.php
+Category: Academic
+FAQ-ID: GVPCEW-056
+
+Question: How do I know which regulations apply to me?
+Answer: Compare your programme and admitted batch with the regulation document; ask the Examination Section if unsure.
+Source: https://www.gvpcew.ac.in/Regulations_Syllabus.php
+Category: Academic
+FAQ-ID: GVPCEW-057
+
+Question: Where are examination notifications?
+Answer: Use the Exam Section/Autonomous Wing links and the Examination Notifications directory.
+Source: https://www.gvpcew.ac.in/
+Category: Exams
+FAQ-ID: GVPCEW-058
+
+Question: Where can I find exam timetables?
+Answer: Select the correct programme, semester, exam type and batch in the official Examination Notifications directory.
+Source: https://www.gvpcew.ac.in/Examination_Notifications/
+Category: Exams
+FAQ-ID: GVPCEW-059
+
+Question: Where can I check results?
+Answer: Check the official homepage and Exam Section/Autonomous Wing announcements.
+Source: https://www.gvpcew.ac.in/
+Category: Exams
+FAQ-ID: GVPCEW-060
+
+Question: Where are supplementary exam notices?
+Answer: Look for the relevant regular/supplementary notice in the Examination Notifications directory.
+Source: https://www.gvpcew.ac.in/Examination_Notifications/
+Category: Exams
+FAQ-ID: GVPCEW-061
+
+Question: Where are laboratory exam timetables?
+Answer: Check the Examination Notifications directory for the matching semester and batch.
+Source: https://www.gvpcew.ac.in/Examination_Notifications/
+Category: Exams
+FAQ-ID: GVPCEW-062
+
+Question: Where are theory exam timetables?
+Answer: Choose the correct theory timetable from the official Examination Notifications directory.
+Source: https://www.gvpcew.ac.in/Examination_Notifications/
+Category: Exams
+FAQ-ID: GVPCEW-063
+
+Question: How do I identify my timetable?
+Answer: Check the programme, semester, exam type, admitted batch and publication date on the notice.
+Source: https://www.gvpcew.ac.in/Examination_Notifications/
+Category: Exams
+FAQ-ID: GVPCEW-064
+
+Question: Where do I ask about exam regulations?
+Answer: Read the applicable regulation and contact the Examination Section if your question remains unanswered.
+Source: https://www.gvpcew.ac.in/
+Category: Exams
+FAQ-ID: GVPCEW-065
+
+Question: Who is listed as Controller of Examinations?
+Answer: The Autonomous Wing page lists Dr. C. Srinivas and coe@gvpcew.ac.in; verify current details on the page.
+Source: https://www.gvpcew.ac.in/autonomous.php
+Category: Exams
+FAQ-ID: GVPCEW-066
+
+Question: What is the Controller of Examinations email?
+Answer: The Autonomous Wing page lists coe@gvpcew.ac.in. Check the official page for current details.
+Source: https://www.gvpcew.ac.in/autonomous.php
+Category: Exams
+FAQ-ID: GVPCEW-067
+
+Question: Where are revaluation notices?
+Answer: Check the official Exam Section and current Examination Notifications for the relevant revaluation notice.
+Source: https://www.gvpcew.ac.in/
+Category: Exams
+FAQ-ID: GVPCEW-068
+
+Question: What is the revaluation deadline?
+Answer: It depends on the specific notice. Check the latest official notification; do not rely on an assumed date.
+Source: https://www.gvpcew.ac.in/
+Category: Exams
+FAQ-ID: GVPCEW-069
+
+Question: Where can I find internal assessment rules?
+Answer: Consult the applicable academic regulation and Student Handbook; the college also publishes information about its evaluation process.
+Source: https://www.gvpcew.ac.in/NAAC/C2-5.php
+Category: Exams
+FAQ-ID: GVPCEW-070
+
+Question: How are internal assessment schedules announced?
+Answer: The college says schedules are shared through the website, notice boards and email.
+Source: https://www.gvpcew.ac.in/NAAC/C2-5.php
+Category: Exams
+FAQ-ID: GVPCEW-071
+
+Question: Where is the examination section?
+Answer: Use the Exam Section link on the official homepage.
+Source: https://www.gvpcew.ac.in/
+Category: Exams
+FAQ-ID: GVPCEW-072
+
+Question: Does GVPCEW have a library?
+Answer: Yes. The website describes a Central Library with print/electronic resources and a digital library.
+Source: https://www.gvpcew.ac.in/
+Category: Facilities
+FAQ-ID: GVPCEW-073
+
+Question: What library resources are available?
+Answer: The website lists books, journals, project reports, CD/DVD-ROMs, online databases, e-books and e-journals.
+Source: https://www.gvpcew.ac.in/
+Category: Facilities
+FAQ-ID: GVPCEW-074
+
+Question: What are the library timings?
+Answer: The website lists Mon–Sat 7 AM–7 PM, second Saturday 9 AM–5 PM and Sunday 9 AM–1 PM. Confirm current timings before visiting.
+Source: https://www.gvpcew.ac.in/
+Category: Facilities
+FAQ-ID: GVPCEW-075
+
+Question: Does the college have a hostel?
+Answer: The facilities page has a Hostel & Canteen section. Contact the college to confirm current availability and rules.
+Source: https://www.gvpcew.ac.in/facilities.php
+Category: Facilities
+FAQ-ID: GVPCEW-076
+
+Question: What is the hostel fee?
+Answer: The sources reviewed do not establish a current hostel fee. Ask the hostel administration for the latest written fee notice.
+Source: https://www.gvpcew.ac.in/facilities.php
+Category: Facilities
+FAQ-ID: GVPCEW-077
+
+Question: Does the college have a canteen?
+Answer: The facilities page describes canteen facilities for hostel residents, day scholars and faculty.
+Source: https://www.gvpcew.ac.in/facilities.php
+Category: Facilities
+FAQ-ID: GVPCEW-078
+
+Question: Does GVPCEW provide transport?
+Answer: The facilities page states a fleet of six buses and two vehicles is available for students and staff; confirm current routes.
+Source: https://www.gvpcew.ac.in/facilities.php
+Category: Facilities
+FAQ-ID: GVPCEW-079
+
+Question: Where can I find bus routes?
+Answer: Check current transport notices on the official website or ask the transport office; routes can change.
+Source: https://www.gvpcew.ac.in/
+Category: Facilities
+FAQ-ID: GVPCEW-080
+
+Question: Are e-classrooms available?
+Answer: The facilities page lists e-classrooms, an auditorium and a seminar hall with audio-visual equipment.
+Source: https://www.gvpcew.ac.in/facilities.php
+Category: Facilities
+FAQ-ID: GVPCEW-081
+
+Question: Are sports facilities available?
+Answer: The facilities page lists outdoor courts, indoor games and a gymnasium; check current access rules with the college.
+Source: https://www.gvpcew.ac.in/facilities.php
+Category: Facilities
+FAQ-ID: GVPCEW-082
+
+Question: Is internet available on campus?
+Answer: The facilities page describes internet access for students and faculty through dedicated leased lines; confirm current availability with the college.
+Source: https://www.gvpcew.ac.in/facilities.php
+Category: Facilities
+FAQ-ID: GVPCEW-083
+
+Question: Is drinking water provided on campus?
+Answer: The facilities page describes an RO water plant serving the canteen, hostel and institute; confirm current status with the college.
+Source: https://www.gvpcew.ac.in/facilities.php
+Category: Facilities
+FAQ-ID: GVPCEW-084
+
+Question: Does the college have a health care unit?
+Answer: The homepage lists a Health Care Unit. Contact the college for current service hours and procedures.
+Source: https://www.gvpcew.ac.in/
+Category: Facilities
+FAQ-ID: GVPCEW-085
+
+Question: Where can I find campus facilities?
+Answer: Open the official Facilities page linked from the homepage.
+Source: https://www.gvpcew.ac.in/facilities.php
+Category: Facilities
+FAQ-ID: GVPCEW-086
+
+Question: Does GVPCEW have a placement department?
+Answer: Yes. The website has a Training & Placement section with recruiter, training-programme and placement-record information.
+Source: https://www.gvpcew.ac.in/placementinfo.php
+Category: Placements
+FAQ-ID: GVPCEW-087
+
+Question: Where are placement records?
+Answer: Use the Training and Placement page and choose the available year/batch.
+Source: https://www.gvpcew.ac.in/placementinfo.php
+Category: Placements
+FAQ-ID: GVPCEW-088
+
+Question: Where is the recruiter list?
+Answer: The official Training and Placement page includes a Recruiters section.
+Source: https://www.gvpcew.ac.in/placementinfo.php
+Category: Placements
+FAQ-ID: GVPCEW-089
+
+Question: Does the college conduct training programmes?
+Answer: The Training and Placement page has a Training Programs section; check it for current details.
+Source: https://www.gvpcew.ac.in/placementinfo.php
+Category: Placements
+FAQ-ID: GVPCEW-090
+
+Question: Who is the placement officer?
+Answer: The page lists Dr. C. Srinivas as Training & Placement Officer and tpo@gvpcew.ac.in. Verify current details.
+Source: https://www.gvpcew.ac.in/placementinfo.php
+Category: Placements
+FAQ-ID: GVPCEW-091
+
+Question: What is the placement office email?
+Answer: The official page lists tpo@gvpcew.ac.in; confirm it on the current page.
+Source: https://www.gvpcew.ac.in/placementinfo.php
+Category: Placements
+FAQ-ID: GVPCEW-092
+
+Question: Where do I ask about campus recruitment?
+Answer: Check the Training and Placement page and contact the placement office using its current official details.
+Source: https://www.gvpcew.ac.in/placementinfo.php
+Category: Placements
+FAQ-ID: GVPCEW-093
+
+Question: Where is historical placement data?
+Answer: The Training and Placement page lists placement records for multiple years/batches. Check the year before quoting figures.
+Source: https://www.gvpcew.ac.in/placementinfo.php
+Category: Placements
+FAQ-ID: GVPCEW-094
+
+Question: Does the college support industry readiness?
+Answer: The homepage mentions the Industry Institute Partnership Cell and Entrepreneurship Development Cell and discusses placement activities.
+Source: https://www.gvpcew.ac.in/
+Category: Placements
+FAQ-ID: GVPCEW-095
+
+Question: Can the chatbot guarantee a job or salary?
+Answer: No. Website placement information cannot guarantee an individual student's job or salary. Consult current placement records.
+Source: https://www.gvpcew.ac.in/placementinfo.php
+Category: Placements
+FAQ-ID: GVPCEW-096
+
+Question: Where can I find scholarship information?
+Answer: Check current official admission notices and homepage fee/scholarship links; verify scheme year and eligibility.
+Source: https://www.gvpcew.ac.in/
+Category: Student services
+FAQ-ID: GVPCEW-097
+
+Question: Are scholarship amounts the same every year?
+Answer: Amounts and eligibility depend on the scheme and year. Use the current official notification.
+Source: https://www.gvpcew.ac.in/
+Category: Student services
+FAQ-ID: GVPCEW-098
+
+Question: Where can I access student resources?
+Answer: The homepage links to Autonomous Student Resources, the Learning Management System and Student/Parent Login.
+Source: https://www.gvpcew.ac.in/
+Category: Student services
+FAQ-ID: GVPCEW-099
+
+Question: Does the college have an LMS?
+Answer: Yes. The homepage provides a Learning Management System link; use the official link and authorized credentials.
+Source: https://www.gvpcew.ac.in/
+Category: Student services
+FAQ-ID: GVPCEW-100
+
+Question: Where can parents access the portal?
+Answer: Use the Student/Parent Login link on the official homepage. Never share passwords with the chatbot.
+Source: https://www.gvpcew.ac.in/
+Category: Student services
+FAQ-ID: GVPCEW-101
+
+Question: Does the college have student clubs?
+Answer: The homepage links to student clubs including IEEE, CSI and IETE. Check the club pages for current activities.
+Source: https://www.gvpcew.ac.in/
+Category: Student services
+FAQ-ID: GVPCEW-102
+
+Question: Where can I find alumni information?
+Answer: The official homepage provides an Alumni Portal link.
+Source: https://www.gvpcew.ac.in/
+Category: Student services
+FAQ-ID: GVPCEW-103
+
+Question: Does the college have an NSS unit?
+Answer: The homepage links to GVPW NSS Unit; use that page for current activities and participation details.
+Source: https://www.gvpcew.ac.in/
+Category: Student services
+FAQ-ID: GVPCEW-104
+
+Question: Where can I find research information?
+Answer: Use the Research link on the official GVPCEW homepage.
+Source: https://www.gvpcew.ac.in/
+Category: Student services
+FAQ-ID: GVPCEW-105

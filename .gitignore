@@ -153,3 +153,5 @@ vite.config.ts.timestamp-*
 .venv/
 __pycache__/
 *.py[cod]
+# Ignore accidental nested project copy
+/College-Administration-Chatbot/

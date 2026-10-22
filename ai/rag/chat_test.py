@@ -1,65 +1,49 @@
+
 from document_loader import load_text_files
 from embeddings import create_embeddings, search_documents
 from answer_generator import generate_answer
 
-
-# Step 1: Load college documents
+# Load college knowledge base
 documents = load_text_files("knowledge_base")
 
 if not documents:
-    print("No text documents found in knowledge_base.")
+    print("No college documents found.")
     raise SystemExit
 
-print("Documents loaded:", len(documents))
-
-
-# Step 2: Create embeddings
+# Create document embeddings
 chunks, sources, embeddings = create_embeddings(documents)
 
 if not chunks:
-    print("No text chunks available.")
+    print("No information available in the knowledge base.")
     raise SystemExit
 
-print("Chunks created:", len(chunks))
-
-
-# Step 3: Ask a question
-question = input("\nAsk a college question: ").strip()
+# Get student's question
+question = input("\nAsk your college question: ").strip()
 
 if not question:
     print("Please enter a question.")
     raise SystemExit
 
-
-# Step 4: Retrieve relevant information
+# Retrieve only the best-matching chunk
 results = search_documents(
     question,
     chunks,
     sources,
-    embeddings
+    embeddings,
+    top_k=1
 )
 
+# Generate one answer
+if not results or results[0]["score"] < 0.45:
+    print(
+        "\nAnswer: I couldn't find sufficiently relevant, "
+        "verified information in the college records. "
+        "Please check the official college website."
+    )
+else:
+    response = generate_answer(question, results)
 
-# Step 5: Avoid answering when the match is too weak
-# This threshold is an initial testing value.
-relevant_results = [
-    result for result in results
-    if result["score"] >= 0.45
-]
+    print("\nAnswer:", response["answer"])
 
-
-# Step 6: Generate an answer using Gemini
-try:
-    result = generate_answer(question, relevant_results)
-
-    print("\nChatbot answer:")
-    print(result["answer"])
-
-    if result["source"]:
-        print("\nSource:", result["source"])
-    else:
-        print("\nSource: No verified source found.")
-
-except Exception as error:
-    print("\nCould not generate the answer.")
-    print("Error:", error)
+    if response.get("source"):
+        print("Source:", response["source"])
